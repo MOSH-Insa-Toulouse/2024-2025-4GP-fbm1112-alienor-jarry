@@ -2,4 +2,5 @@
 
 ## Liste de tâches pour notre projet
 
-[1]
+1. [x] Créer item
+2. [] Salut!
